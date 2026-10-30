@@ -10,4 +10,4 @@ while True:
         my_pen.left(90)
         size -= 5
     size +=1
-turtle.done()   
+my_wn.exitonclick()
